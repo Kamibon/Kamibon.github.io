@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+    height: 20%;
+}
+
+#container{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.category{
+    color: whitesmoke;
+    font-size: large;
+    
+}
