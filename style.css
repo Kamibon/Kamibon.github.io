@@ -14,10 +14,11 @@ body{
 }
 
 #main{
+      align-content: space-evenly;
       background-color:#292929;
       color:white;
       height:80%;
-       text-align: center;
+       text-align: left;
 
 }
 
