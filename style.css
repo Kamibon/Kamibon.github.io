@@ -2,13 +2,12 @@ body{
     margin:0
 }
 
-header{
-    background-color: black;
-    height: 20%;
-}
+
 
 #container{
     align-items: center;
+     background-color: black;
+    height: 20%;
     justify-content: space-around;
     display: flex;
 
@@ -17,7 +16,12 @@ header{
 #main{
       background-color:black;
       color:white;
+      height:80%;
 
+}
+
+#main strong{
+    color:blue;
 }
 
 .category{
@@ -26,4 +30,3 @@ header{
     font-weight: bold;
     
 }
-
