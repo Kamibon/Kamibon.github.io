@@ -14,9 +14,16 @@ header{
 
 }
 
+#main{
+      background-color:black;
+      color:white;
+
+}
+
 .category{
     color: whitesmoke;
     font-size: large;
     font-weight: bold;
     
 }
+
